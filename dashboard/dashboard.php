@@ -30,6 +30,24 @@
       <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
       <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
       <link href="assets/css/themify-icons.css" rel="stylesheet">
+      <style media="screen">
+
+					::-webkit-scrollbar {
+						width: 12px;
+						background-color: #F5F5F5;
+					} /* this targets the default scrollbar (compulsory) */
+					::-webkit-scrollbar-track {
+						-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+						/*border-radius: 10px;*/
+						background-color: #F5F5F5;
+					} /* the new scrollbar will have a flat appearance with the set background color */
+
+					::-webkit-scrollbar-thumb {
+						/*border-radius: 10px;*/
+						-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+						background-color: #D62929;
+					} /* this will style the thumb, ignoring the track */
+				</style>
    </head>
    <body>
       <div class="wrapper">

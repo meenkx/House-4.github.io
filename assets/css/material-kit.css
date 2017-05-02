@@ -1916,7 +1916,7 @@ select.form-control[multiple], .form-group.is-focused select.form-control[multip
 }
 
 footer {
-  padding: 15px 0;
+  padding: 10px 0;
 }
 footer ul {
   margin-bottom: 0;
@@ -1941,7 +1941,7 @@ footer ul li a:hover {
   text-decoration: none;
 }
 footer .copyright {
-  padding: 15px 0;
+  padding: 10px 0;
 }
 footer .copyright .material-icons {
   font-size: 18px;
@@ -3642,10 +3642,10 @@ h2.title {
   padding-top: 15px;
 }
 .index-page .header-filter:after {
-  background: rgba(101, 47, 142, 0.64);
-  background: linear-gradient(45deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 100%);
-  background: -moz-linear-gradient(135deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 100%);
-  background: -webkit-linear-gradient(135deg, rgba(101, 47, 142, 0.88) 0%, rgba(125, 46, 185, 0.45) 100%);
+  background: rgba(51, 51, 51, 0.64);
+  background: linear-gradient(45deg, rgba(51, 51, 51, 0.88) 0%, rgba(30, 30, 30, 0.45) 100%);
+  background: -moz-linear-gradient(135deg, rgba(51, 51, 51, 0.88) 0%, rgba(30, 30, 30, 0.45) 100%);
+  background: -webkit-linear-gradient(135deg, rgba(51, 51, 51, 0.88) 0%, rgba(30, 30, 30, 0.45) 100%);
 }
 
 .landing-page .header {
